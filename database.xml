@@ -1,0 +1,6 @@
+<jdbc:database-info>
+    <description>Meu banco de dados Firebird</description>
+    <url>jdbc:firebirdsql://localhost:3050</url>
+    <user>SYSDBA</user>
+    <password>1652498327</password>
+</jdbc:database-info>
